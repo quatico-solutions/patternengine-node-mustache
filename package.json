@@ -29,6 +29,9 @@
   },
   "engines": {
     "node": ">=0.1"
+  },
+  "publishConfig": {
+    "registry": "https://apps.quatico.com/nexus/content/repositories/npm-internal/"
   }
 }
 
