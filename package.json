@@ -1,5 +1,5 @@
 {
-  "name": "patternengine-node-mustache",
+  "name": "patternengine-node-mustache-for-react",
   "description": "The Mustache engine for Pattern Lab / Node",
   "version": "1.0.4",
   "main": "lib/engine_mustache.js",
